@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901657512405",
+    "project_id": "questo-d0534",
+    "storage_bucket": "questo-d0534.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901657512405:android:545ba128f58287ceb1955c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901657512405-tfo3gbesihln4gdmpt222d814p10a814.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACoDxFChNC1FMj5Pzhr0YTSIUEgv7rk1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901657512405-tfo3gbesihln4gdmpt222d814p10a814.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
